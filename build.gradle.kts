@@ -1,7 +1,7 @@
 plugins {
     java
     kotlin("jvm") version "1.4.21"
-    kotlin("plugin.serialization") version "1.4.21"
+    kotlin("plugin.serialization") version "1.5.30"
     kotlin("kapt") version "1.4.21"
     id("com.github.johnrengelman.shadow") version "6.0.0"
     id("com.github.gmazzo.buildconfig") version "2.0.2"
